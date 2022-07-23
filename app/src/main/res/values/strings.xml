@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Motion App</string>
+    <string name="activity_4_title">Hakuna Matata</string>
+    <string name="activity_4_tagline">Offline is better than Online</string>
+    <string name ="activity_4_para_1" translatable="false"><![CDATA[
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquam amet assumenda atque culpa deleniti distinctio doloribus, dolorum ea eligendi esse facilis in incidunt iste iure magnam molestiae necessitatibus obcaecati, perspiciatis placeat porro quo soluta sunt unde voluptatum. Ab ad aliquid aperiam architecto at consectetur cumque debitis dignissimos dolorem eum expedita explicabo facere facilis, fuga fugit illo impedit in ipsum itaque molestiae, natus necessitatibus nemo neque non nostrum omnis optio pariatur quas quidem recusandae saepe sequi sint, sunt tempore temporibus ullam voluptate. Delectus eaque eius in rerum ullam! Aliquid aspernatur autem cumque dolorem id inventore nisi nulla numquam possimus voluptates.
+    ]]></string>
+
+</resources>
